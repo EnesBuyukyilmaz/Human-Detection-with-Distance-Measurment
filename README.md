@@ -16,7 +16,9 @@ All other information will be displayed on I2C 2x16 LCD display .
 ![Circuit Diagram](/EmbeddedSytemProjectReport/image4.png)
 
 ### Some Images While Project Is Running
-![Circuit Diagram](/EmbeddedSytemProjectReport/image1.png)
+
+
+![Circuit Diagram](/EmbeddedSytemProjectReport/image.png)
 ![Circuit Diagram](/EmbeddedSytemProjectReport/image2.png)
 ![Circuit Diagram](/EmbeddedSytemProjectReport/image3.png)
 
