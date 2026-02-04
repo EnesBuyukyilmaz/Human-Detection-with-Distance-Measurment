@@ -13,4 +13,4 @@ All other information will be displayed on I2C 2x16 LCD display .
 ## Video that i have explanied all the details of this project in Turkish
 [Watch on YouTube](https://youtu.be/ODFTrhxbKB0)
 ## Some images while project is running
-[](./Embedded Sytem Project Report/image.png)
+[](Embedded Sytem Project Report/image.png)
